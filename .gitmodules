@@ -1,0 +1,45 @@
+[submodule "ansible/roles/ludus_ar_zeek"]
+	path = ansible/roles/ludus_ar_zeek
+	url = https://github.com/P4T12ICK/ludus_ar_zeek.git
+[submodule "ansible/roles/ludus_aurora_agent"]
+	path = ansible/roles/ludus_aurora_agent
+	url = https://github.com/frack113/ludus_aurora_agent.git
+[submodule "ansible/roles/ludus_badblood"]
+	path = ansible/roles/ludus_badblood
+	url = https://github.com/curi0usJack/ludus_badblood.git
+[submodule "ansible/roles/ludus_ghostwriter"]
+	path = ansible/roles/ludus_ghostwriter
+	url = https://github.com/5tuk0v/ludus_ghostwriter.git
+[submodule "ansible/roles/ludus_mythic_teamserver"]
+	path = ansible/roles/ludus_mythic_teamserver
+	url = https://github.com/0xRedpoll/ludus_mythic_teamserver.git
+[submodule "ansible/roles/ludus_vectr"]
+	path = ansible/roles/ludus_vectr
+	url = https://github.com/5tuk0v/ludus_vectr.git
+[submodule "ansible/roles/ludus_wsus"]
+	path = ansible/roles/ludus_wsus
+	url = https://github.com/5tuk0v/ludus_wsus.git
+[submodule "ansible/roles/ludus_zeek"]
+	path = ansible/roles/ludus_zeek
+	url = https://github.com/5tuk0v/ludus_zeek.git
+[submodule "ansible/roles/ludus_ar_splunk"]
+	path = ansible/roles/ludus_ar_splunk
+	url = https://github.com/P4T12ICK/ludus_ar_splunk.git
+[submodule "ansible/roles/ludus_ar_linux"]
+	path = ansible/roles/ludus_ar_linux
+	url = https://github.com/P4T12ICK/ludus_ar_linux.git
+[submodule "ansible/roles/ludus_ar_windows"]
+	path = ansible/roles/ludus_ar_windows
+	url = https://github.com/P4T12ICK/ludus_ar_windows.git
+[submodule "ansible/roles/ludus_caldera_server"]
+	path = ansible/roles/ludus_caldera_server
+	url = https://github.com/frack113/ludus_caldera_server.git
+[submodule "ansible/roles/ludus-ad-content"]
+	path = ansible/roles/ludus-ad-content
+	url = https://github.com/Cyblex-Consulting/ludus-ad-content.git
+[submodule "ansible/roles/ludus_mssql"]
+	path = ansible/roles/ludus_mssql
+	url = https://github.com/badsectorlabs/ludus_mssql.git
+[submodule "ansible/collections/ansible_collections/synzack/ludus_sccm"]
+	path = ansible/collections/ansible_collections/synzack/ludus_sccm
+	url = https://github.com/Synzack/ludus_sccm.git
